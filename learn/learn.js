@@ -16,6 +16,5 @@ var p2 ={
 
 var persons= [p1,p2];
 
-console.log(persons);
+console.log(persons)
 
-persons.map
